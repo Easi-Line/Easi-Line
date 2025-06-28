@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/lvJr8oK.png" alt="Cyril Stevenson Banner" style="width:100%; border-radius: 10px;"/>
+  <img src="[https://i.imgur.com/lvJr8oK.png](https://images.app.goo.gl/dkDpxHkd3hmEEYZF7)" alt="Cyril Stevenson Banner" style="width:100%; border-radius: 10px;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Cyril Stevenson</h1>
